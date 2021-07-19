@@ -1,4 +1,4 @@
-# IBSI_Features
+# IBSI Features
 This project contains texture feature calculation algorithms following the IBSI instructions.
 
 There are 136 features claculated from 8 categories including:
